@@ -5,6 +5,7 @@ Want to step up your game when doing Khan?  use this script enhance your Khan Ac
 INSTRUCTIONS
 1. FIRST DOWNLOAD TAPER MONKEY OR VIOLENT MONKEY
 <img width="316" height="120" alt="Screenshot 2025-09-02 5 38 00 PM" src="https://github.com/user-attachments/assets/ef376a8d-6632-4a08-ace2-b617742ca43c" />
+(If you dont have violent or taper monkey i will have a file with a link to violentmonkey on the chrome web store)
 
 2. Now open khan academy, log in and go to your work. (has to be math)
 
