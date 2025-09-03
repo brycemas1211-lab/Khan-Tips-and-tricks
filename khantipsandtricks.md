@@ -1,5 +1,5 @@
 # Khan-Tips-and-tricks
-What to step up your game when doing Khan?  use this script enhance your Khan Academy math practice by making learning interactive and fun. 'Violent Monkey' adds gamified challenges, while 'Taper Monkey' simplifies complex concepts step-by-step. Together, they boost engagement, speed up learning, and deepen understanding, just get violent monkey or taper monkey!
+Want to step up your game when doing Khan?  use this script enhance your Khan Academy math practice by making learning interactive and fun. 'Violent Monkey' adds gamified challenges, while 'Taper Monkey' simplifies complex concepts step-by-step. Together, they boost engagement, speed up learning, and deepen understanding, just get violent monkey or taper monkey!
 
 
 INSTRUCTIONS
@@ -8,12 +8,12 @@ INSTRUCTIONS
 
 2. Now open khan academy, log in and go to your work. (has to be math)
 
-2. NOW ADD A NEW SCRIPT AND PUT IN javascript:fetch('https://raw.githubusercontent.com/CrimsonStrauss/Scripts/refs/heads/main/khanlunar.js').then(t=>t.text()).then(eval)
+3. NOW ADD A NEW SCRIPT AND PUT IN javascript:fetch('https://raw.githubusercontent.com/CrimsonStrauss/Scripts/refs/heads/main/khanlunar.js').then(t=>t.text()).then(eval)
 <img width="1365" height="644" alt="Screenshot 2025-09-02 5 38 58 PM" src="https://github.com/user-attachments/assets/f488a8bb-568f-4034-b8b4-e8c33a98dba6" />
 
-3. THEN CICK SAVE AND CLOSE
+4. THEN CICK SAVE AND CLOSE
 
-4. NOW LET THE LEANING BEGIN!
+5. NOW LET THE LEANING BEGIN!
 
 Trouble shooting
 
