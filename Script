@@ -1,2 +1,1 @@
 javascript:fetch('https://raw.githubusercontent.com/CrimsonStrauss/Scripts/refs/heads/main/khanlunar.js').then(t=>t.text()).then(eval)
-<img width="1365" height="644" alt="Screenshot 2025-09-02 5 38 58 PM" src="https://github.com/user-attachments/assets/f488a8bb-568f-4034-b8b4-e8c33a98dba6" />
